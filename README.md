@@ -16,8 +16,11 @@ It achieves an excellent trade-off between **speed and accuracy**, optimized for
 - **Training Type:** Transfer learning on a custom obstacle dataset  
 - **Output:** Bounding boxes, class labels, and confidence scores  
 
-The trained model file:  
+📁** Repository Contents**
+| File / Folder          | Description                        |
+| ---------------------- | ---------------------------------- |
+| `robust_final_last.pt` | Trained YOLOv8n model weights      |
+| `train_yolov8n.py`     | Training code used for fine-tuning |
+| `README.md`            | Documentation and usage guide      |
 
 
-The trained model is saved as:  
-robust_final_last.pt
