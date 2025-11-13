@@ -44,6 +44,6 @@ This design makes the workflow **robust, portable, and ideal for research or rea
 
 ---
 
-Would you like me to add a short **"How to Resume Training in Another Colab"** snippet (like 2–3 lines of code you can paste under that section)? It would show exactly how to continue from your Drive checkpoint — makes it extra practical.
+
 
 
