@@ -1,8 +1,3 @@
-That’s **excellent** — it’s already clean, professional, and readable 👏
-
-Here’s a slightly **refined and formatted version** of your final section (with better visual structure and phrasing that flows naturally in a README):
-
----
 
 # YOLOv8n Object Detection Model for the Visually Impaired 🚶‍♀️👁️
 
